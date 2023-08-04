@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ray.c                                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pdavid <pdavid@student.42.fr>              +#+  +:+       +#+        */
+/*   By: nolkim <nolkim@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/31 23:11:44 by pdavid            #+#    #+#             */
 /*   Updated: 2018/12/16 11:24:38 by pdavid           ###   ########.fr       */
